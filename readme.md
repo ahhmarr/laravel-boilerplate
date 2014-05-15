@@ -15,6 +15,7 @@
 
 * PHPExcel
 * Laravel-generator
+* php-debugbar
 
 
 
