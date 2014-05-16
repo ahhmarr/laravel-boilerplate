@@ -4,11 +4,12 @@
 	"keywords": ["framework", "laravel"],
 	"license": "MIT",
 	"require": {
+		"raveren/kint": "dev-master",
 		"laravel/framework": "4.0.*",
 		"maatwebsite/excel": "dev-master",
-		"way/generators": "1.0.*@dev",
+		"way/generators": "dev-master",
 		"barryvdh/laravel-debugbar": "dev-master"
-	
+
 	},
 	"autoload": {
 		"classmap": [
